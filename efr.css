@@ -1,0 +1,84 @@
+/* CSS Document */
+.topheading {
+	font-size: 15px;
+	color:#CCCCCC;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.heading {
+	font-size: 12px;
+	color:#CCCCCC;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.subheading {
+	font-size: 12px;
+	color:#CCFF99;
+	font-weight:bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.newmail {
+	font-size: 12px;
+	color:#99FF99;
+	font-weight:bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.marquee {
+	font-size: 12px;
+	color: #999999;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.normaltext{
+	color: #999999;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.printtext{
+	color:#000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+
+.message{
+	color:#0000FF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.headlink{
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 12px; 
+	COLOR:#999900; 
+	FONT-FAMILY:Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none
+	
+}
+
+.nolink{
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 12px; 
+	COLOR:#993300;
+	FONT-FAMILY:Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none
+}
+
+.footer {
+	color:#666666;
+	FONT-SIZE: 11px;
+	font-family:Arial, Helvetica, sans-serif; 
+}
+.error {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	color:#CC0000;	
+ }
+ 
+ .bodytext{
+	 color:#CCC;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+
